@@ -4,10 +4,38 @@
   <groupId>com.gunjan.app</groupId>
   <artifactId>my-app</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.1-SNAPSHOT</version>
   <name>my-app</name>
   <url>http://maven.apache.org</url>
+
+  <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <slf4j.version>1.7.12</slf4j.version>
+        <logback.version>1.1.3</logback.version>
+  </properties>
+
   <dependencies>
+       <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>${slf4j.version}</version>
+            <scope>system</scope>
+            <systemPath>/home/gunjan/Desktop/log4j/jars/slf4j-api-1.7.12.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <version>${logback.version}</version>
+            <scope>system</scope>
+            <systemPath>/home/gunjan/Desktop/log4j/jars/logback-classic-1.1.3.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-core</artifactId>
+            <version>${logback.version}</version>
+            <scope>system</scope>
+            <systemPath>/home/gunjan/Desktop/log4j/jars/logback-core-1.1.3.jar</systemPath>
+        </dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
