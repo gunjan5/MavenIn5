@@ -18,3 +18,13 @@
 2015-07-02 15:22:04,908 [main] INFO   com.gunjan.app.App - EHhhhhh.
 2015-07-02 15:22:04,908 [main] WARN   com.gunjan.app.App - GO AWAY.
 2015-07-02 15:22:04,908 [main] ERROR  com.gunjan.app.App - I don't like you.
+2015-07-02 18:27:43,417 [main] TRACE  com.gunjan.app.App - Hello Humans!
+2015-07-02 18:27:43,419 [main] DEBUG  com.gunjan.app.App - Ay, Gunjan
+2015-07-02 18:27:43,421 [main] INFO   com.gunjan.app.App - EHhhhhh.
+2015-07-02 18:27:43,421 [main] WARN   com.gunjan.app.App - GO AWAY.
+2015-07-02 18:27:43,421 [main] ERROR  com.gunjan.app.App - I don't like you.
+2015-07-02 18:28:08,866 [main] TRACE  com.gunjan.app.App - Hello Humans!
+2015-07-02 18:28:08,869 [main] DEBUG  com.gunjan.app.App - Ay, Gunjan
+2015-07-02 18:28:08,870 [main] INFO   com.gunjan.app.App - EHhhhhh.
+2015-07-02 18:28:08,871 [main] WARN   com.gunjan.app.App - GO AWAY.
+2015-07-02 18:28:08,871 [main] ERROR  com.gunjan.app.App - I don't like you.

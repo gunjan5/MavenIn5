@@ -20,21 +20,21 @@
             <artifactId>slf4j-api</artifactId>
             <version>${slf4j.version}</version>
             <scope>system</scope>
-            <systemPath>/home/gunjan/Desktop/log4j/jars/slf4j-api-1.7.12.jar</systemPath>
+            <systemPath>/Users/gupatel/Dropbox/WebStuff/MavenIn5/jars/slf4j-api-1.7.12.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
             <version>${logback.version}</version>
             <scope>system</scope>
-            <systemPath>/home/gunjan/Desktop/log4j/jars/logback-classic-1.1.3.jar</systemPath>
+            <systemPath>/Users/gupatel/Dropbox/WebStuff/MavenIn5/jars/logback-classic-1.1.3.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-core</artifactId>
             <version>${logback.version}</version>
             <scope>system</scope>
-            <systemPath>/home/gunjan/Desktop/log4j/jars/logback-core-1.1.3.jar</systemPath>
+            <systemPath>/Users/gupatel/Dropbox/WebStuff/MavenIn5/jars/logback-core-1.1.3.jar</systemPath>
         </dependency>
     <dependency>
       <groupId>junit</groupId>
